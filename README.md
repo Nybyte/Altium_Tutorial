@@ -17,3 +17,5 @@ Altium Designer need a licence for being used but if you are a student one you c
 Here you could find software and you can Download It. 
 
 https://www.altium.com/es/altium-designer?srsltid=AfmBOoozQh-Grkuq7Sa0B0XQv2AQ0u0_IqqOfrz3IXxBtEJ_8zQC8tVn 
+
+As I said before you will need your educational email for have a free-license one :) 
