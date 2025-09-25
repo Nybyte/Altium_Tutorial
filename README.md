@@ -26,3 +26,5 @@ As I said before you will need your educational email for have a free-license on
 # STEP YOU NEED TO CREATE YOUR REPOSITORY 
 
 I mean guys we all know that we have used programs and save them in one thousand places in diferents repositories but if you follow this guide and this steps you would not have more issues
+
+What I recommend is go to your hard drive 
