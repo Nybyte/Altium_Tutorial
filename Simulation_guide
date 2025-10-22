@@ -1,3 +1,13 @@
 Hello guys
 
 This I´m going to explain and share how we could do a simulation on Altium in case we don´t have an osciloscope and we need a tool that it could represent functions.
+
+Firstly I would like to say that is kinda "easy" simulate a cirquit in AltiumDesigner because you would have to copy your circuit from your propototipe or even you can try to invent one or whatever.
+
+Then every simulation need to do this following steps:
+
+1-Copy your circuit with the appropiate values
+2-Propose the condition and use the right Suply Voltage or them
+3-Start simulate with the appropiate conditions.
+
+Then I would propose this cirquit for simulate.
